@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\bin\Debug\net6.0\001.exe
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\bin\Debug\net6.0\001.deps.json
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\bin\Debug\net6.0\001.runtimeconfig.json
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\bin\Debug\net6.0\001.dll
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\bin\Debug\net6.0\ref\001.dll
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\bin\Debug\net6.0\001.pdb
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\obj\Debug\net6.0\001.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\obj\Debug\net6.0\001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\obj\Debug\net6.0\001.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\obj\Debug\net6.0\001.AssemblyInfo.cs
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\obj\Debug\net6.0\001.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\obj\Debug\net6.0\001.dll
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\obj\Debug\net6.0\ref\001.dll
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\obj\Debug\net6.0\001.pdb
+C:\Users\пк\Desktop\Работа с Git\Семинары\СЕМИНАР2\001\obj\Debug\net6.0\001.genruntimeconfig.cache
